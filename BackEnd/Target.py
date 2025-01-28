@@ -14,4 +14,5 @@ class Target:
             self.x = width
         self.rect.x = self.x + 20
 
-
+    def draw(self, screen):
+        screen.blit(self.image, (self.x, self.y))
