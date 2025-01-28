@@ -42,7 +42,6 @@ class ScoreManager:
             f'Ammo Remaining: {ammo}' if mode == 1 else
             f'Time Remaining {time_remaining}'
         ]
-
         for i, text in enumerate(texts):
             rendered = self.font.render(text, True, 'black')
             screen.blit(rendered, (320, 660 + i * 27))
