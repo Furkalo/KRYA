@@ -17,6 +17,7 @@ class SoundManager:
         """Load sound effects from the specified file paths."""
         sound_files = {
             'monster': 'assets/sounds/Small monster.wav',
+            'plate': 'assets/sounds/Small monster.wav',
             'bird': 'assets/sounds/Bird sound.mp3',
             'laser': 'assets/sounds/Laser Gun.wav'
         }
