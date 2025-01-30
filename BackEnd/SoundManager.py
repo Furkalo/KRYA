@@ -1,6 +1,12 @@
 import pygame
 
 class SoundManager:
+    """
+    A class to manage sound effects in a game using Pygame's mixer module.
+
+    This class initializes the sound system, loads sound files, and provides
+    methods to play specific sound effects.
+    """
     def __init__(self):
         """Initialize the sound manager and load sounds."""
         pygame.mixer.init()
