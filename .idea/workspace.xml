@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6409f80b-038d-4c1b-9e17-9c797bb0a0ec" name="Changes" comment="added 4th target into third level">
-
-    </list>
+    <list default="true" id="6409f80b-038d-4c1b-9e17-9c797bb0a0ec" name="Changes" comment="added test for gun" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,8 +14,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Unit Test" />
+        <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -66,7 +68,7 @@
   "keyToString": {
     "Python tests.Python tests in test_ShootingGallery.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-
+    "git-widget-placeholder": "Tavolzhan",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/university/2_course_2_semester/CI_CD/lab_2_test",
     "node.js.detected.package.eslint": "true",
@@ -154,7 +156,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738088219051</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="some fixes">
+      <option name="closed" value="true" />
+      <created>1739717053521</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739717053521</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added test for gun">
+      <option name="closed" value="true" />
+      <created>1739717114224</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1739717114224</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +185,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/Tavolzhan" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -181,6 +211,8 @@
     <MESSAGE value="added 3rd target into third level" />
     <MESSAGE value="added 4th target into third level" />
     <MESSAGE value="add test" />
-    <option name="LAST_COMMIT_MESSAGE" value="add test" />
+    <MESSAGE value="some fixes" />
+    <MESSAGE value="added test for gun" />
+    <option name="LAST_COMMIT_MESSAGE" value="added test for gun" />
   </component>
 </project>
