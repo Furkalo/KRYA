@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6409f80b-038d-4c1b-9e17-9c797bb0a0ec" name="Changes" comment="added 4th target into third level">
-      <change afterPath="$PROJECT_DIR$/test/test_ShootingGallery.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Furkalo" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -43,7 +47,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Furkalo/KRYA.git&quot;,
-    &quot;accountId&quot;: &quot;72fff906-1d66-462d-88b9-43017bbfffcb&quot;
+
   }
 }</component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="false" />
@@ -62,9 +66,15 @@
   "keyToString": {
     "Python tests.Python tests in test_ShootingGallery.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Furkalo",
+
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/CICD_Projects/KRYA/assets/targets/3"
+    "last_opened_file_path": "C:/university/2_course_2_semester/CI_CD/lab_2_test",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -76,6 +86,14 @@
       <recent name="D:\CICD_Projects\KRYA\assets\menus" />
     </key>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.153" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.153" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -84,6 +102,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738084469800</updated>
+      <workItem from="1738424861422" duration="408000" />
+      <workItem from="1738490681496" duration="314000" />
+      <workItem from="1739692191584" duration="3245000" />
     </task>
     <task id="LOCAL-00001" summary="added menus">
       <option name="closed" value="true" />
@@ -135,6 +156,9 @@
     </task>
     <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="false" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
